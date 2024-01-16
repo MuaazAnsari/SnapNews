@@ -95,6 +95,8 @@ export class News extends Component {
                         : "https://static.toiimg.com/thumb/msid-106774784,width-1070,height-580,imgsize-39892,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
                     }
                     newsUrl={element.url}
+                    author = {element.author?element.author:"Unknown"} date = {new Date(element.publishedAt).toGMTString()}
+                    source = {element.source.name}
                   />
                 </div>
               );
