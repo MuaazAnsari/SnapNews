@@ -5,10 +5,12 @@ export default class NewsItem extends Component {
     let { title, description, imageUrl, newsUrl, author, date, source } = this.props;
     return (
       <div className="card">
-        <span className="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style = {{zIndex:'1', left:'90%'}}>
+        <div>
+        <span className="position-absolute badge rounded-pill bg-danger" style={{right:'0', display:'flex'}}>
           {source}
           <span className="visually-hidden">unread messages</span>
         </span>
+        </div>
         <img src={imageUrl} className="card-img-top" alt="..." />
         <div className="card-body">
           <h5 className="card-title">{title}...</h5>
