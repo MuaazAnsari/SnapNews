@@ -14,8 +14,6 @@ const News = (props)=> {
     const [page, setPage] = useState(1)
     const [totalResults, setTotalResults] = useState(0)
 
-    // document.title = `${capitalizeFirstLetter(props.category)} - NewsMonkey`;
-
   const updateNews = async () => {
     props.setProgress(10)
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
@@ -33,6 +31,7 @@ const News = (props)=> {
   };
 
   useEffect(() => {
+    document.title = `${capitalizeFirstLetter(props.category)} - SnapNews`;
     updateNews();
     // eslint-disable-next-line
   },[])
@@ -51,8 +50,8 @@ const News = (props)=> {
 
     return (
       <>
-          <h1 className="text-center" style={{ margin: "35px 0px", marginTop:"75px" }}>
-            NewsMonkey - Top {capitalizeFirstLetter(props.category)}{" "}
+          <h1 className="text-center" style={{ margin: "15px 0px", marginTop:"90px" }}>
+          SnapNews - Top {capitalizeFirstLetter(props.category)}{" "}
             Headlines
           </h1>
           {loading && <Spinner/>}
