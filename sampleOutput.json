@@ -1,209 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 12382,
   "articles": [
     {
-      "source": { "id": "reuters", "name": "Reuters" },
-      "author": "Tim Reid",
-      "title": "Iowa Caucus 2024: DeSantis, Haley face off in debate showdown to emerge as Trump alternative - Reuters",
-      "description": "Republican presidential rivals <a href=\"/world/us/who-is-ron-desantis-2024-presidential-candidate-2023-05-24/\">Ron DeSantis</a> and <a href=\"/world/us/nikki-haley-who-is-republican-2024-us-presidential-hopeful-2023-09-26/\">Nikki Haley</a> will square off on W…",
-      "url": "https://www.reuters.com/world/us/desantis-haley-face-off-debate-showdown-emerge-trump-alternative-2024-01-10/",
-      "urlToImage": "https://www.reuters.com/resizer/H5iB9MkAC6cPZM7VScIa2oIczOg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/47LSKBWPDJIKPNRO6H5AX5DQVQ.jpg",
-      "publishedAt": "2024-01-10T18:12:00Z",
-      "content": "DES MOINES, Iowa, Jan 10 (Reuters) - Republican presidential rivals Ron DeSantis and Nikki Haley will square off on Wednesday in their first head-to-head debate as they fight to emerge as the clear a… [+3580 chars]"
-    },
-    {
-      "source": { "id": "associated-press", "name": "Associated Press" },
-      "author": "JENNIFER PELTZ, JAKE OFFENHARTZ",
-      "title": "Trump can't give closing argument at civil trial, judge says - The Associated Press",
-      "description": "Donald Trump won’t make his own closing argument in his New York civil business fraud trial. Judge Arthur Engoron rescinded permission for it on Wednesday after Trump's lawyers objected to the judge’s insistence that the former president would stick to “relev…",
-      "url": "https://apnews.com/article/trump-fraud-trial-closing-arguments-420997f889922423dbce8a0945f0c348",
-      "urlToImage": "https://dims.apnews.com/dims4/default/c4c1a79/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2Fb6%2F39ec26761e4c2be6c8afd5aedbf4%2F641bbb169e2942ec8441596ebbd69024",
-      "publishedAt": "2024-01-10T17:47:32Z",
-      "content": "NEW YORK (AP) Donald Trump wont make his own closing argument in his New York civil business fraud trial after his lawyers objected to the judges insistence that the former president would stick to r… [+4108 chars]"
-    },
-    {
-      "source": { "id": null, "name": "[Removed]" },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
+      "source": {
+        "id": null,
+        "name": "Shiftdelete.net"
+      },
+      "author": "Yiğit Can Polat",
+      "title": "Tesla Cybercab inceleme!",
+      "description": "Tesla, şehir içi ulaşımı kökten değiştirebilecek yeni otonom aracı Cybercab’i tanıttı. Direksiyon ve pedaldan tamamen…",
+      "url": "https://shiftdelete.net/tesla-cybercab-inceleme",
+      "urlToImage": "https://ares.shiftdelete.net/2024/11/a49205e9-7795-44aa-83a3-14ede0015e6b.jpeg",
+      "publishedAt": "2024-11-13T13:38:34Z",
+      "content": "Tesla, ehir içi ulam kökten deitirebilecek yeni otonom arac Cybercabi tantt. Direksiyon ve pedaldan tamamen arndrlm bu fütüristik araç, tam otonom sürü teknolojisi ile kullanclarna yepyeni bir deneyi… [+1706 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Digital Trends"
       },
-      "author": "WSJ Staff",
-      "title": "It's Deadline Day for an SEC Decision on Spot Bitcoin ETFs. Here's What to Watch. - The Wall Street Journal",
-      "description": "Live updates on stocks and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-01-10-2024",
-      "urlToImage": "https://images.wsj.net/im-909980/social",
-      "publishedAt": "2024-01-10T17:11:00Z",
-      "content": null
+      "author": "Diego Bastarrica",
+      "title": "Elon Musk lo consiguió: tiene alto cargo en gobierno de Donald Trump",
+      "description": "Donald Trump anunció oficialmente que Elon Musk dirigirá un nuevo Departamento de Eficiencia Gubernamental\nThe post Elon Musk lo consiguió: tiene alto cargo en gobierno de Donald Trump appeared first on Digital Trends Español.",
+      "url": "https://es.digitaltrends.com/tendencias/elon-musk-cargo-gobierno-donald-trump/",
+      "urlToImage": "https://es.digitaltrends.com/wp-content/uploads/2020/05/elonmusk_twohand_composite_200526-scaled.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-11-13T13:37:44Z",
+      "content": "Hasta que finalmente Elon Musk lo consiguió y Donald Trump cumplió su promesa como presidente electo, ya que oficialmente designó al multimillonario CEO de Tesla y SpaceX como nuevo encargado del Dep… [+1792 chars]"
     },
     {
-      "source": { "id": "associated-press", "name": "Associated Press" },
-      "author": "MATTHEW LEE, NAJIB JOBAIN, SAMY MAGDY",
-      "title": "Israel-Hamas war: Palestinian governance reforms on Blinken agenda - The Associated Press",
-      "description": "U.S. Secretary of State Antony Blinken is meeting with Palestinian President Mahmoud Abbas to seek governance reforms. It's part of a plan to rally the region behind a postwar vision for Gaza that includes concrete steps toward a Palestinian state. Blinken sa…",
-      "url": "https://apnews.com/article/israel-hamas-war-news-01-10-2024-c4e961fa3255901e1ca0297bd07cd547",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1aed89c/2147483647/strip/true/crop/5760x3240+0+300/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2F12%2F22ed82200364da9aee33d6997a13%2F52888430c68d49e0868e48262a768221",
-      "publishedAt": "2024-01-10T17:08:00Z",
-      "content": "TEL AVIV, Israel (AP) Secretary of State Antony Blinken will seek governance reforms when he meets with Palestinian President Mahmoud Abbas on Wednesday as part of U.S. efforts to rally the region be… [+5761 chars]"
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "William Gavin",
+      "title": "Trump's DOGE gift to Elon Musk is basically just a consulting gig",
+      "description": "Tesla (TSLA) and SpaceX CEO Elon Musk will be joined by Vivek Ramaswamy as “outside of government” consultants on federal spending for President-elect Donald Trump’s coming administration. Exactly what that means is still unclear.Read more...",
+      "url": "https://qz.com/elon-musk-donald-trump-vivek-ramaswamy-doge-tesla-1851697130",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0effd9f208c6125e8edcdeea3ff4baca.jpg",
+      "publishedAt": "2024-11-13T13:37:00Z",
+      "content": "In This Story\r\nTesla (TSLA-1.56%\r\n) and SpaceX CEO Elon Musk will be joined by Vivek Ramaswamy as outside of government consultants on federal spending for President-elect Donald Trumps coming admini… [+4288 chars]"
     },
     {
-      "source": { "id": "cnn", "name": "CNN" },
-      "author": "Ashley Strickland",
-      "title": "Astronomers say they’ve traced the origin of powerful and mysterious radio signal - CNN",
-      "description": "A powerful radio burst detected in 2022 originated from a rare “blob” of seven galaxies located 8 billion light-years from Earth, according to new research.",
-      "url": "https://www.cnn.com/2024/01/10/world/fast-radio-bursts-hubble-galaxy-group-scn/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240109172500-fast-radio-burst.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-01-10T16:30:00Z",
-      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAstronomers have traced one of the most powerful and d… [+5379 chars]"
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "tcarter@businessinsider.com (Tom Carter)",
+      "title": "Drivers are being 'ill-served by underwhelming EVs,' says boss of Tesla rival Lucid",
+      "description": "Lucid CEO Peter Rawlinson told the Cars and Culture podcast that the problem with EVs in the US was \"not perception, but reality.\"",
+      "url": "https://www.businessinsider.com/lucid-ceo-tesla-rival-on-american-evs-chinese-rivals-2024-11",
+      "urlToImage": "https://i.insider.com/6734950e5ec9bfa3d63dbd03?width=1200&format=jpeg",
+      "publishedAt": "2024-11-13T13:36:06Z",
+      "content": "The boss of one of Tesla's biggest rivals thinks he knows why the US public isn't being won over by EVs.\r\nPeter Rawlinson, the CEO of Lucid Motors and a former VP of engineering at Tesla, spoke on th… [+2688 chars]"
     },
     {
-      "source": { "id": null, "name": "[Removed]" },
+      "source": {
+        "id": "la-nacion",
+        "name": "La Nacion"
+      },
       "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
+      "title": "“Departamento de Eficiencia Gubernamental”: qué hará Elon Musk en el gobierno de Donald Trump (y un guiño a Milei)",
+      "description": "El futuro presidente de Estados Unidos anunció la creación de un ente por fuera del organigrama oficial que promete reducir la burocracia y el gasto público; “¡Afuera!”, tuiteó Vivek Ramaswamy, quien acompañará al dueño de Tesla en la tarea",
+      "url": "https://www.lanacion.com.ar/estados-unidos/departamento-de-eficiencia-gubernamental-que-hara-elon-musk-en-el-gobierno-de-donald-trump-y-un-nid13112024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-presidente-electo-de-estados-unidos-donald-RWHQNWJLA5GYHFWI6L5HUY7VXI.JPG?auth=c6f2070b65a9b83a0fb3159e06db3b7870569f84560dcc10df627a50704648fd&width=1200&quality=70&smart=false&height=720",
+      "publishedAt": "2024-11-13T13:35:52Z",
+      "content": "NUEVA YORK.- El presidente electo de Estados Unidos, Donald Trump, designó el martes a Elon Musk y al ex precandidato presidencial republicano Vivek Ramaswamy para liderar un nuevo Departamento de Ef… [+6249 chars]"
     },
     {
-      "source": { "id": null, "name": "Nature.com" },
+      "source": {
+        "id": null,
+        "name": "Hwupgrade.it"
+      },
       "author": null,
-      "title": "Elevated genetic risk for multiple sclerosis emerged in steppe pastoralist populations - Nature.com",
-      "description": "Analysis of a large ancient genome dataset&nbsp;shows that genetic risk for multiple sclerosis rose in steppe pastoralists, providing insight into how genetic ancestry from the Neolithic and Bronze Age has shaped modern immune responses.",
-      "url": "https://www.nature.com/articles/s41586-023-06618-z",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-06618-z/MediaObjects/41586_2023_6618_Fig1_HTML.png",
-      "publishedAt": "2024-01-10T16:11:06Z",
-      "content": null
+      "title": "Elon Musk, battaglia alle istituzioni italiane. Interviene il Presidente Mattarella, e lui reagisce su X",
+      "description": "Il CEO di Tesla e di SpaceX ha ingaggiato una battaglia mediatica con le istituzioni italiane, con un coinvolgimento nella politica sempre più significativo",
+      "url": "https://www.hwupgrade.it/news/web/elon-musk-battaglia-alle-istituzioni-italiane-interviene-il-presidente-mattarella-e-lui-reagisce-su-x_132718.html",
+      "urlToImage": "https://www.hwupgrade.it/i/n/musk_meloni_720.jpg",
+      "publishedAt": "2024-11-13T13:34:36Z",
+      "content": "Il presidente della Repubblica Sergio Mattarella ha dichiarato che lItalia è un Paese democratico capace di rispettare la propria Costituzione e che chiunque, soprattutto se destinato a un ruolo imp… [+1691 chars]"
     },
     {
-      "source": { "id": null, "name": "YouTube" },
+      "source": {
+        "id": null,
+        "name": "Overclockers.ru"
+      },
+      "author": "g1tarist",
+      "title": "Спрос на Tesla Cybertruck резко упал, сроки ожидания снизились до пары недель",
+      "description": "Теперь можно купить без очереди.",
+      "url": "https://overclockers.ru/blog/letsplay/show/190947/Spros-na-Tesla-Cybertruck-rezko-upal-sroki-ozhidaniya-snizilis-do-pary-nedel",
+      "urlToImage": "https://overclockers.ru/st/legacy/blog/422417/585717_O.png",
+      "publishedAt": "2024-11-13T13:32:43Z",
+      "content": "Tesla Cybertruck , 2 . , , .\r\n . . Foundation Series, $250 000. , , .\r\n, Cybertruck, . , Tesla . , 125 000 , , .\r\n , 3 Tesla 8000 Cybertruck. Foundation Series .\r\n , , Tesla Cybertruck . : ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Skai.gr"
+      },
+      "author": "Newsroom",
+      "title": "Η Tesla και οι αυτοκινητοβιομηχανίες του Ντιτρόιτ ελπίζουν σε «εκτόξευση» λόγω Τραμπ - Καλή τύχη",
+      "description": "Όπως συμβαίνει με πολλά που περιβάλλουν τον Ντόναλντ Τραμπ, τα πράγματα μπορεί να αποδειχθούν περίπλοκα.",
+      "url": "https://www.skai.gr/news/world/i-tesla-kai-oi-aytokinitoviomixanies-tou-ntitroit-elpizoun-se-ektokseysi-logo-tramp-kali-t",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-11/tesla-ap.jpg?itok=z0AaSKeZ",
+      "publishedAt": "2024-11-13T13:32:40Z",
+      "content": ", .\r\n Liam Denning\r\n , .\r\n General Motors Ford Motor , GM Ford 6% , S&amp;P 500. , , Tesla 100 . .\r\n , .\r\n (EV). , , SUV EV. , , ( Mercedes Benz Group AG Bayerische Motoren Werke AG ). , . !\r\n , .\r\n … [+505 chars]"
+    },
+    {
+      "source": {
+        "id": "la-nacion",
+        "name": "La Nacion"
+      },
       "author": null,
-      "title": "Alaska Airlines passengers share new details on terrifying mid-air door plug blowout - ABC News",
-      "description": "A mother and her 12-year-old son, who were sitting in the row behind the door plug when it flew off, recall when the air cabin depressurized during the terri...",
-      "url": "https://www.youtube.com/watch?v=joEt8zZAqdM",
-      "urlToImage": "https://i.ytimg.com/vi/joEt8zZAqdM/maxresdefault.jpg",
-      "publishedAt": "2024-01-10T16:00:24Z",
-      "content": null
+      "title": "Elon Musk le respondió a The Guardian tras su anuncio de que abandonará la red social X",
+      "description": "El dueño de la plataforma arremetió contra el diario, que comunicó que dejará de usar el canal porque difunde “teorías conspirativas” y contenido racista",
+      "url": "https://www.lanacion.com.ar/el-mundo/elon-musk-le-respondio-a-the-guardian-tras-su-anuncio-de-que-abandonara-la-red-social-x-nid13112024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/elon-6DO5G7CABRFRPJR6LWJE5GG2KM?auth=e16a1c8f6433a84bd15773467f48fdeb655c3d6fab97b8f8b7dbb9a4c65fb007&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2024-11-13T13:31:58Z",
+      "content": "WASHINGTON.- Al magnate y dueño de X, Elon Musk, no le pasó desapercibida la decisión del reconocido diario británico The Guardian deirse de su red social, acusándolo a él de manipular el discurso po… [+3087 chars]"
     },
     {
-      "source": { "id": null, "name": "BBC News" },
-      "author": null,
-      "title": "US and UK navies repel largest Houthi attack on Red Sea shipping - BBC.com",
-      "description": "Jets and warships shot down 21 drones and missiles launched at shipping by the Yemen-based rebels.",
-      "url": "https://www.bbc.com/news/world-middle-east-67932725",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ADB2/production/_132266444_redsea.jpg",
-      "publishedAt": "2024-01-10T15:41:00Z",
-      "content": "The UK's Ministry of Defence shared images of the HMS Diamond deploying Sea Viper missiles and guns\r\nUK and US naval forces have repelled the largest attack yet by Yemen's Houthi rebels on Red Sea sh… [+7169 chars]"
-    },
-    {
-      "source": { "id": "espn", "name": "ESPN" },
-      "author": "Courtney Cronin",
-      "title": "Bears to keep head coach Matt Eberflus, fire OC Luke Getsy - ESPN",
-      "description": "The Bears will keep head coach Matt Eberflus but have fired offensive coordinator Luke Getsy.",
-      "url": "https://www.espn.com/nfl/story/_/id/39278869/bear-keep-coach-matt-eberflus-fire-oc-luke-getsy-sources-say",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0110%2Fr1275652_1296x729_16%2D9.jpg",
-      "publishedAt": "2024-01-10T15:41:00Z",
-      "content": "The Chicago Bears have made the first two decisions in what will be a pivotal offseason, bringing back coach Matt Eberflus for the 2024 season while firing offensive coordinator Luke Getsy.\r\nSources … [+2931 chars]"
-    },
-    {
-      "source": { "id": "nbc-news", "name": "NBC News" },
-      "author": "Erik Ortiz, Phil Helsel, Adam Reiss, Tom Winter, Sarah Fitzpatrick",
-      "title": "Last batch of unsealed Jeffrey Epstein documents released - NBC News",
-      "description": "Another round of documents involving accused sex trafficker Jeffrey Epstein was released Tuesday, expected to be the last of the materials that were ordered unsealed by a federal judge as part of a settled lawsuit.",
-      "url": "https://www.nbcnews.com/news/us-news/last-batch-unsealed-jeffrey-epstein-documents-released-rcna132936",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-11/221130-jeffrey-epstein-mjf-1641-723464.jpg",
-      "publishedAt": "2024-01-10T15:36:00Z",
-      "content": "Anotherround of documents involving accused sex traffickerJeffrey Epstein was released Tuesday, expected to be the last of the materials that were ordered unsealed by a federal judge as part of a set… [+5854 chars]"
-    },
-    {
-      "source": { "id": "cnn", "name": "CNN" },
-      "author": "Annie Grayer",
-      "title": "Hunter Biden makes an unexpected appearance on Capitol Hill at Oversight contempt proceeding - CNN",
-      "description": "House Republicans will begin the process of holding Hunter Biden in criminal contempt of Congress on Wednesday for not complying with a congressional subpoena to sit for a closed-door deposition last month, and the president’s son is on Capitol Hill.",
-      "url": "https://www.cnn.com/2024/01/10/politics/hunter-biden-contempt-vote-committees/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240110102230-02-hunter-biden-capitol-hill-01-10-2024.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-01-10T15:34:00Z",
-      "content": "Hunter Biden unexpectedly made a short appearance at a Capitol Hill hearing Wednesday as House Republicans were starting the process of holding the presidents son in criminal contempt of Congress for… [+7168 chars]"
-    },
-    {
-      "source": { "id": "nbc-news", "name": "NBC News" },
-      "author": "Patrick Smith, Marlene Lenthang, Dennis Romero, The Associated Press, John Filippelli, Colin Sheeley, Elizabeth Maline",
-      "title": "At least 5 dead as the U.S. is battered by rain, snow and tornadoes - NBC News",
-      "description": "At least five people were dead and hundreds of thousands were in the dark as stormy weather covered much of the country Tuesday.",
-      "url": "https://www.nbcnews.com/news/us-news/both-coasts-central-us-hammered-winter-storms-causing-power-cuts-trave-rcna132996",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240109-snow-iowa-se-216p-c101a2.jpg",
-      "publishedAt": "2024-01-10T15:32:00Z",
-      "content": "At least five people were dead and hundreds of thousands were in the dark as stormy weather covered much of the country Tuesday. \r\nPowerful storms charged across the country bringing snow, rain, wind… [+5690 chars]"
-    },
-    {
-      "source": { "id": null, "name": "NBCSports.com" },
-      "author": "Mike Florio",
-      "title": "Yes, you'll need Peacock to watch Dolphins-Chiefs (unless you're in the local markets) - NBC Sports",
-      "description": "On Saturday night, Tyreek Hill will be back in Kansas City.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/yes-youll-need-peacock-to-watch-dolphins-chiefs-unless-youre-in-the-local-markets",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8ea1279/2147483647/strip/true/crop/3193x1796+0+166/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2Fd7%2F0cbee14040be9e12f0da0a9dee29%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1906195032",
-      "publishedAt": "2024-01-10T15:21:25Z",
-      "content": "On Saturday night, Tyreek Hill will be back in Kansas City. Unless youre in Kansas City or Miami, youll need Peacock to watch it.\r\nBefore I say anything else about it, I need to mention a few things.… [+2423 chars]"
-    },
-    {
-      "source": { "id": "cbs-news", "name": "CBS News" },
-      "author": "Sara Moniuszko",
-      "title": "How many calories should I burn a day? Your calorie questions, answered by experts. - CBS News",
-      "description": "Calories can be confusing — but they don't have to be. We've got answers to your most-searched questions about calories.",
-      "url": "https://www.cbsnews.com/news/calories-questions-answered-experts/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2016/02/09/5b7e6d09-00f3-421e-b99a-2d1940f21f93/thumbnail/1200x630/9b5a6c8e771bf22ec0df67edee230a0c/nutrition-label.jpg?v=ae9b993fd90e26d2b155463d98235421",
-      "publishedAt": "2024-01-10T14:56:00Z",
-      "content": "Calories can be confusing — but they don't have to be. From consuming them to burning them, we got expert answers to your most-searched questions about calories and what they mean for our weight and … [+6432 chars]"
-    },
-    {
-      "source": { "id": "ign", "name": "IGN" },
-      "author": "Anthony Wood",
-      "title": "NASA Astronauts Won't Step Foot on the Moon Until September 2026 at the Earliest - IGN",
-      "description": "U.S. astronauts won’t set foot on the Moon until September 2026 at the earliest, following NASA’s announcement of multiple delays to Artemis missions stemming from safety concerns for astronauts flying aboard the Orion spacecraft, and the need for further dev…",
-      "url": "https://www.ign.com/articles/nasa-astronauts-wont-step-foot-on-the-moon-until-september-2026-at-the-earliest",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/01/10/moon-thumbnail-1704896392299.jpg?width=1280",
-      "publishedAt": "2024-01-10T14:44:17Z",
-      "content": "U.S. astronauts wont set foot on the lunar surface until September 2026 at the earliest, following the announcement of multiple delays to NASA's Artemis Moon program stemming from concerns relating t… [+4108 chars]"
-    },
-    {
-      "source": { "id": "nbc-news", "name": "NBC News" },
-      "author": "Reuters",
-      "title": "Britain to bring in new law to quash wrongful Post Office convictions - NBC News",
-      "description": "Britain will seek to use new legislation to overturn the wrongful convictions of hundreds of Post Office managers, Prime Minister Rishi Sunak said.",
-      "url": "https://www.nbcnews.com/news/world/britain-post-office-scandal-mr-bates-wrongful-convictions-quashed-rcna133221",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240110-post-office-mb-1356-2c0670.jpg",
-      "publishedAt": "2024-01-10T14:05:53Z",
-      "content": "Britain will seek to use new legislation to overturn the wrongful convictions of hundreds of Post Office managers, Prime Minister Rishi Sunak said Wednesday in the wake of renewed national outrage ov… [+2233 chars]"
-    },
-    {
-      "source": { "id": "usa-today", "name": "USA Today" },
-      "author": "Brian Truitt",
-      "title": "'Mean Girls' 2024 review: Tina Fey falls short of Lindsay Lohan movie - USA TODAY",
-      "description": "Tina Fey's new \"Mean Girls\" movie musical takes the Broadway show and doesn't do anything with it in a retread of the 2004 Lindsay Lohan teen classic.",
-      "url": "https://www.usatoday.com/story/entertainment/movies/2024/01/10/mean-girls-2024-movie-review/72148697007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/10/USAT/72170682007-mgm-jw-0323-12064-r.jpg?crop=4524,2546,x0,y26&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2024-01-10T14:04:01Z",
-      "content": "A good movie is often hard to find. A Broadway version of that movie is an even dicier thing. And a movie version of that? Well, now you're just playing with fire. But sometimes the gambit works: For… [+3530 chars]"
-    },
-    {
-      "source": { "id": null, "name": "CBS Sports" },
-      "author": "",
-      "title": "Prisco's Super Wild Card Weekend NFL picks: Rams, Buccaneers pull off shockers; Cowboys, Packers in shootout - CBS Sports",
-      "description": "Pete Prisco makes his picks for every game in the playoffs' first weekend",
-      "url": "https://www.cbssports.com/nfl/news/priscos-super-wild-card-weekend-nfl-picks-rams-buccaneers-pull-off-shockers-cowboys-packers-in-shootout/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/01/10/99a75ff6-466a-4508-9dbd-8449c9e3eaca/thumbnail/1200x675/2c6ea65e0b9e31750630fde4aa98f645/mayfield-jpeg.jpg",
-      "publishedAt": "2024-01-10T13:42:00Z",
-      "content": "There's nothing like being on a roll heading into the playoffs. That's me. Finally.\r\nI went 11-5 against the spread last week and 10-6 straight up with my NFL picks. I feel like the Buffalo Bills on … [+3125 chars]"
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Scooter Doll",
+      "title": "CATL chairman is open to a US battery plant as long as Trump lets China join its EV supply chain",
+      "description": "CATL, the world’s largest battery manufacturer, is considering building a localized plant on US soil, but there’s a big “if.” The company’s chairman said he is open to erecting a US battery facility if President-elect Donald Trump paves the way, despite escal…",
+      "url": "http://electrek.co/2024/11/13/catl-chairman-open-to-us-battery-plant-trump-china-join-ev-supply-chain/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/CATL-US.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-13T13:31:01Z",
+      "content": "CATL, the world’s largest battery manufacturer, is considering building a localized plant on US soil, but there’s a big “if.” The company’s chairman said he is open to erecting a US battery facility … [+3626 chars]"
     }
   ]
 }

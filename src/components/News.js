@@ -19,10 +19,16 @@ const News = (props)=> {
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
     setLoading(true)
     let data = await fetch(url);
+    // if (!data.ok) {
+    //   console.error("API fetch failed:", data.status, data.statusText);
+    //   setLoading(false); // Stop loading if the fetch fails
+    //   return;
+    // }
+
     props.setProgress(30)
     let parsedData = await data.json();
     props.setProgress(70)
-
+    console.log(parsedData);
     setArticles(parsedData.articles)
     setTotalResults(parsedData.totalResults)
     setLoading(false)
@@ -33,7 +39,7 @@ const News = (props)=> {
   useEffect(() => {
     document.title = `${capitalizeFirstLetter(props.category)} - SnapNews`;
     updateNews();
-    // eslint-disable-next-line
+    //eslint-disable-next-line
   },[])
   
 
@@ -42,11 +48,21 @@ const News = (props)=> {
       const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${nextPage}&pageSize=${props.pageSize}`;
       
       let data = await fetch(url);
+
+      // if (!data.ok) {
+      //   console.error("API fetch failed:", data.status, data.statusText);
+      //   setLoading(false); // Stop loading if the fetch fails
+      //   return;
+      // }
+
+
       let parsedData = await data.json();
+      console.log(parsedData);
       setArticles(articles.concat(parsedData.articles))
       setTotalResults(parsedData.totalResults)
       setPage(nextPage)
   };
+
 
     return (
       <>
